@@ -69,7 +69,7 @@ export default function LandingPage() {
           href: "#features",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-vector/futuristic-digital-user-interface-dashboard_53876-115874.jpg"
+      imageSrc="http://img.b2bpic.net/free-vector/futuristic-digital-user-interface-dashboard_53876-115874.jpg?_wi=1"
       imageAlt="Sulaiman Trading Platform Interface"
     />
   </div>
@@ -95,7 +95,7 @@ export default function LandingPage() {
         {
           title: "Ultra-Fast Execution",
           description: "Execute trades in milliseconds with our low-latency infrastructure.",
-          imageSrc: "http://img.b2bpic.net/free-photo/blurred-small-fiber-optic-lights_23-2148241394.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blurred-small-fiber-optic-lights_23-2148241394.jpg?_wi=1",
           imageAlt: "Execution speed icon",
         },
         {
@@ -200,7 +200,7 @@ export default function LandingPage() {
           button: {
             text: "Choose Pro",
           },
-          imageSrc: "http://img.b2bpic.net/free-vector/futuristic-digital-user-interface-dashboard_53876-115874.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/futuristic-digital-user-interface-dashboard_53876-115874.jpg?_wi=2",
           imageAlt: "professional trading station analytics",
         },
         {
@@ -216,7 +216,7 @@ export default function LandingPage() {
           button: {
             text: "Choose Enterprise",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/blurred-small-fiber-optic-lights_23-2148241394.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/blurred-small-fiber-optic-lights_23-2148241394.jpg?_wi=2",
           imageAlt: "professional trading station analytics",
         },
       ]}
